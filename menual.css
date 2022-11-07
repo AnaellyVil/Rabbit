@@ -1,0 +1,11 @@
+.div-foto{
+    display: flex;
+    margin-top: 20px;
+}
+.arq{
+    width: 130px;
+}
+.img-arq{
+    display: flex;
+    flex-wrap: wrap;
+}
