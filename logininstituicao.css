@@ -37,16 +37,18 @@ body{
 }
 
 .img-coelho{
-    width: 160px;
+    width: 450px;
 }
 
 .buton-1{
-    margin-bottom: 45px;
+    margin-bottom: 100px;
     height: 25px;
+    border-radius: 40px;
+    width: 300px;
 }
 
 .buton-2{
-    margin-top: 50px;
+    margin-top: 70px;
     background-color: rgb(251, 251, 32);
     border-color: rgb(251, 251, 32);
     display: flex;
@@ -73,6 +75,17 @@ a:hover{
 }
 
 .none{
+    display: flex;
+    justify-content: center;
+}
+
+.coelho{
+    margin-top: 200px;
+}
+
+
+
+.mais{
     display: flex;
     justify-content: center;
 }
