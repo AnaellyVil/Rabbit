@@ -11,8 +11,8 @@ body{
 }
 
 .img{
-    width: 250px;
-    margin-bottom: 30px;
+    width: 150px;
+    margin-bottom: 78px;
 
 }
 
@@ -35,5 +35,10 @@ a{
 .text{
     color: rgb(230, 230, 2);
     font-size: 18px;
+}
+
+.tam{
+    display: flex;
+    justify-content: center;
 }
 
