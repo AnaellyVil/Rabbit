@@ -72,3 +72,14 @@ a{
     display: flex;
     justify-content: center;
 }
+
+.img22{
+    width: 50px;
+    margin-top: 30px;
+}
+
+.seta2{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}

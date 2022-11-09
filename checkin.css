@@ -17,7 +17,7 @@ body{
 .logo{
     display: flex;
     justify-content: center;
-    margin-top: 90px;
+    margin-top: 30px;
 }
 
 a{
@@ -49,4 +49,20 @@ a{
 
 .tam{
     font-size:40px;
+    margin-top: 60px;
+}
+
+.img22{
+    width: 50px;
+    margin-top: 30px;
+}
+
+.seta2{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.msg{
+    font-size: 15px;
 }
