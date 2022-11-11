@@ -71,16 +71,6 @@ a:hover{
     
 }
 
-.img{
-    width: 50px;
-    margin-top: 30px;
-}
-
-.seta2{
-    position: absolute;
-    top: 0px;
-    left: 0px;
-}
 
 p{
     margin-left: 8px;
@@ -91,3 +81,12 @@ p{
     justify-content: center;
 }
 
+.seta2{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+
+.img22{
+    width: 55px;
+}
