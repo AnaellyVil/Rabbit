@@ -9,3 +9,18 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+    .navbar-brand{
+        position: absolute;
+        margin-left: 39%;
+        top: 7px;
+
+    }
+
+
+
+.img-arq{
+    padding-top: 2vh;
+}
+
+
